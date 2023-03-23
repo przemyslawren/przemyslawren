@@ -1,7 +1,7 @@
-### Hi!  I'm Przemek 👋.
-## I'm a Intern Front-End Developer!
+### Hi! I'm Przemek 👋
+## I'm trying my best to become Front-End Developer!
 - 🔭 I’m currently working on Buses Widget
-- 🌱 I’m currently learning Angular 
+- 🌱 I’m currently learning JavaScript, RxJS and Angular.
 
 ### Languages and Tools:
 
@@ -11,4 +11,4 @@
 <img align="left" alt="Scss" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scss/scss.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+<img align="left" alt="Angular" width="26px" src="https://img.icons8.com/color/256/angularjs.png" />
