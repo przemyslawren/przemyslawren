@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning JavaScript, RxJS and Angular.
 
 <br />
+
 ### Languages, frameworks and tools:
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,angular,html,css,bootstrap,git,vscode)](https://skillicons.dev)
