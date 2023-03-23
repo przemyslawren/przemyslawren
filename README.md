@@ -3,11 +3,10 @@
 - 🔭 I’m currently working on a buses widget - https://przemyslawren.github.io/zielona-gora-buses/
 - 🌱 I’m currently learning JavaScript, RxJS and Angular.
 
+<br />
 ### Languages, frameworks and tools:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,js,ts,angular,html,css,bootstrap,git)](https://skillicons.dev)
-
-<br />
+[![My Skills](https://skillicons.dev/icons?i=js,ts,angular,html,css,bootstrap,git,vscode)](https://skillicons.dev)
 
 ---
 
