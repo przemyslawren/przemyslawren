@@ -11,4 +11,4 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=przemyslawren&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=przemyslawren&show_icons=true&theme=synthwave)
