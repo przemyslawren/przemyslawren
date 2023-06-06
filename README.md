@@ -1,7 +1,5 @@
 ### Hi! I'm Przemek 👋
 ## I'm learning to become a Front-End Developer!
-- 🔭 I’m currently working on a buses widget - https://przemyslawren.github.io/zielona-gora-buses/
-- 🌱 I’m currently learning JavaScript, RxJS and Angular.
 
 <br />
 
