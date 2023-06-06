@@ -1,5 +1,5 @@
-### Hi! I'm Przemek 👋
-## I'm learning to become a Front-End Developer!
+## Hi! I'm Przemek 👋
+### I'm learning to become a Front-End Developer!
 
 <br />
 
