@@ -51,7 +51,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
+    
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=przemyslawren&show_icons=true&theme=synthwave)
+
 </div>
 
 <br/><br/>
