@@ -14,7 +14,7 @@
 
 🌱 I’m currently mastering **JavaScript**, preparing to switch from **Angular** to **React**
 
-🏫 At uni my main focus is OOP in Java, C++, SQL, UML diagrams, maths, algorythms and AI
+🏫 At uni my main focus is **Java**, **C++**, **SQL**, **UML** diagrams, **multimedia**, **maths**, **algorythms** and **AI**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
