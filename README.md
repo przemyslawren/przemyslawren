@@ -14,7 +14,7 @@
 
 🌱 I’m currently mastering **JavaScript**, preparing to switch from **Angular** to **React**
 
-🏫 At uni my main focus is OOP in Java, learning C++, SQL, UML diagrams, maths, algorythms and AI
+🏫 At uni my main focus is OOP in Java, C++, SQL, UML diagrams, maths, algorythms and AI
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -32,7 +32,9 @@
 <h2 align="center">⚒️ Languages, frameworks and tools ⚒️</h2>
 <br/>
 <div align="center">
+    
 [![My Skills](https://skillicons.dev/icons?i=js,ts,angular,html,css,bootstrap,git,vscode)](https://skillicons.dev)
+
 </div>
 
 <br/>
