@@ -54,7 +54,7 @@
 <br>
 <div align="center">
     
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=przemyslawren&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=przemyslawren&show_icons=true&theme=tokyonight)
 
 </div>
 
