@@ -10,9 +10,9 @@
 
 <div align="center">
   
-🔭 I’m currently working on a **workout planner**
+🔭 I’m currently working on a **Pacman** app in Java
 
-🌱 I’m currently mastering **JavaScript**, preparing to switch from **Angular** to **React**
+🌱 I’m currently mastering **JavaScript**
 
 🏫 At uni my main focus is **Java**, **C++**, **SQL**, **UML** diagrams, **multimedia**, **maths**, **algorythms** and **AI**
 
