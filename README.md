@@ -4,15 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Przemysław+Ren!;" />
 </h1>
 
-<h3 align="center">A Front-End developer, CS Student from Poland</h3>
+<h3 align="center">A CS Student from Poland</h3>
 
 <br/>
 
 <div align="center">
   
-🔭 I’m currently working on a **Pacman** app in Java
+🔭 I’m currently working on a **Ninja Type** app in Java
 
-🌱 I’m currently mastering **JavaScript**
+🌱 I’m currently focusing on **Java**
 
 🏫 At uni my main focus is **Java**, **C++**, **SQL**, **UML** diagrams, **multimedia**, **maths**, **algorythms** and **AI**
 
@@ -33,7 +33,7 @@
 <br/>
 <div align="center">
     
-[![My Skills](https://skillicons.dev/icons?i=js,ts,angular,html,css,bootstrap,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,angular,html,css,bootstrap,git,vscode)](https://skillicons.dev)
 
 </div>
 
