@@ -10,7 +10,7 @@
 
 <div align="center">
   
-🔭 I’m currently working on a **Workout Planner* app in Spring Boot, React & MongoDB
+🔭 I’m currently working on a *Workout Planner* app in Spring Boot, React & MongoDB
 
 🌱 I’m currently focusing on **Java**
 
