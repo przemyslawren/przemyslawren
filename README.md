@@ -10,13 +10,13 @@
 
 <div align="center">
   
-🔭 I’m currently working on a *Workout Planner* app in Spring Boot, React & PostgreSQL
+🔭 I’m currently working on *Escape That!* Which is a Escape room booking system, app in Spring Boot, React & PostgreSQL
 
-🌱 I’m currently focusing on **Java**
+🌱 I’m currently focusing on **Java**, **Spring Boot** & **React**
 
-🏫 At uni my main focus is **Java**, **C++**, **SQL**, **UML** diagrams, **multimedia**, **maths**, **algorythms** and **AI**
+🏫 At uni my main focus currently is **Java**, **UML diagrams**, **project managment**, **python**, **multimedia**, **algorythms**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **The first website ever created was at CERN and is still online. You can visit it at: http://info.cern.ch**
 
 </div>
 
@@ -33,7 +33,7 @@
 <br/>
 <div align="center">
     
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,angular,html,css,bootstrap,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,js,ts,react,angular,html,css,bootstrap,git,docker,postman)](https://skillicons.dev)
 
 </div>
 
