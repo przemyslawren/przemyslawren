@@ -4,17 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Przemysław+Ren!;" />
 </h1>
 
-<h3 align="center">A CS Student from Poland</h3>
+<h3 align="center">A Junior SE, student @PJAIT</h3>
 
 <br/>
 
 <div align="center">
   
-🔭 I’m currently working on *Escape That!* Which is a Escape room booking system, app in Spring Boot, React & PostgreSQL
+🔭 I’m currently working on *Gym Guide* Which is an app in Spring Boot, React & MongoDB
 
-🌱 I’m currently focusing on **Java**, **Spring Boot** & **React**
-
-🏫 At uni my main focus currently is **Java**, **UML diagrams**, **project managment**, **python**, **multimedia**, **algorythms**
+🌱 I’m currently focusing on **Java**, **Spring Boot** & **Kafka**
 
 ⚡ Fun fact **The first website ever created was at CERN and is still online. You can visit it at: http://info.cern.ch**
 
